@@ -51,6 +51,9 @@ A very nice step towards learning responsive designs:
     
 }
 ```
+EDIT: got some nice review and added a few lines of code for better coding and for assistive technologies. 
+
+Loved learning about "aria-hidden="true"" and the "h1 sr-only"
 
 ### Useful resources
 
